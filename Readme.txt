@@ -1,3 +1,3 @@
 Thanks for viewing this project
 
-Great Portfolio Project
+Good Portfolio Project
